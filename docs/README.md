@@ -14,9 +14,37 @@ Dans chacun dossiers `backend` et `frontend` il faut installer les dépendances:
 npm i
 ```
 
+Dans `backend` il faut rouler la commande:
+
+```
+node index.js
+```
+
+Dans `frontend` il faut rouler la commande:
+
+```
+ionic serve
+```
+
 #### IOS
 
+Dans le dossier `frontend` entrez la commandes suivante:
+
+```
+ionic capacitor build ios
+```
+
 #### Android
+
+Dans le dossier `frontend` entrez la commandes suivante:
+
+```
+ionic capacitor build android
+```
+
+Android Studio s'ouvrira. Ensuite il faut modifier l'appel au localhost. Pesez sur 'cmd'+'shift'+'p' pour ouvrir la recherche globale. replacez toutes les instances de `localhost` par `10.0.2.2`.
+
+`!` en ce moment android fait des bugs.`!`
 
 ###### Instructions
 
