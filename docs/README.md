@@ -1,1 +1,7 @@
-# What I'm serious
+# Démarrage
+
+## Quick Start
+
+### Lancer la App
+
+##
