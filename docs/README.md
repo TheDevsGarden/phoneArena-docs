@@ -14,8 +14,12 @@ Dans chacun dossiers `backend` et `frontend` il faut installer les dépendances:
 npm i
 ```
 
-#### Ios
+#### IOS
 
 #### Android
 
-###
+###### Instructions
+
+Documentation (si possible) : Votre documentation devrait expliquer clairement l'utilisation de votre API Web, le schéma de votre base de données et toutes autres informations pertinentes. Elle doit être facile à comprendre et directement liée à votre application. Le format est libre (.md, .docx, .html, .PDF...)
+
+##
