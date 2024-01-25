@@ -6,4 +6,12 @@ Ce document vise une audience particulère: les enseignants du Collège Ahuntsic
 
 ### Lancer la App
 
+#### Web
+
+Dans chacun dossiers `backend` et `frontend`
+
+#### Ios
+
+#### Android
+
 ###
