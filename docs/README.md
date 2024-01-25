@@ -8,7 +8,11 @@ Ce document vise une audience particulère: les enseignants du Collège Ahuntsic
 
 #### Web
 
-Dans chacun dossiers `backend` et `frontend`
+Dans chacun dossiers `backend` et `frontend` il faut installer les dépendances:
+
+```
+npm i
+```
 
 #### Ios
 
